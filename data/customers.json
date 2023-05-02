@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "location": "New York, NY",
+    "photo": "https://randomuser.me/api/portraits/men/24.jpg",
+    "feedback": "The food was amazing, especially the steak. The service was excellent too!"
+  },
+  {
+    "id": 2,
+    "name": "Bob Johnson",
+    "location": "Los Angeles, CA",
+    "photo": "https://randomuser.me/api/portraits/women/75.jpg",
+    "feedback": "I had a great experience at this restaurant. The seafood was fresh and delicious, and the atmosphere was lovely."
+  },
+  {
+    "id": 3,
+    "name": "Charlie Lee",
+    "location": "San Francisco, CA",
+    "photo": "https://randomuser.me/api/portraits/women/68.jpg",
+    "feedback": "I loved everything about this restaurant, from the decor to the food to the service. Highly recommended!"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "location": "Chicago, IL",
+    "photo": "https://randomuser.me/api/portraits/men/65.jpg",
+    "feedback": "The pizza here was some of the best I've ever had. The staff were friendly and attentive too."
+  },
+  {
+    "id": 5,
+    "name": "Emily Chen",
+    "location": "Seattle, WA",
+    "photo": "https://randomuser.me/api/portraits/women/91.jpg",
+    "feedback": "The desserts were the highlight of the meal for me. Everything was so delicious and beautifully presented."
+  }
+]
