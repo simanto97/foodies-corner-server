@@ -26,12 +26,5 @@
     "location": "Chicago, IL",
     "photo": "https://randomuser.me/api/portraits/men/65.jpg",
     "feedback": "The pizza here was some of the best I've ever had. The staff were friendly and attentive too."
-  },
-  {
-    "id": 5,
-    "name": "Emily Chen",
-    "location": "Seattle, WA",
-    "photo": "https://randomuser.me/api/portraits/women/91.jpg",
-    "feedback": "The desserts were the highlight of the meal for me. Everything was so delicious and beautifully presented."
   }
 ]
