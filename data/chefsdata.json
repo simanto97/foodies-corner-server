@@ -71,6 +71,7 @@
       {
         "r_id": "BJ1",
         "name": "Steak with Chimichurri Sauce",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 ribeye steaks",
           "2 tbsp olive oil",
@@ -88,6 +89,7 @@
       {
         "r_id": "BJ2",
         "name": "Roasted Brussel Sprouts",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "1 lb brussel sprouts",
           "2 tbsp olive oil",
@@ -102,6 +104,7 @@
       {
         "r_id": "BJ3",
         "name": "Apple Pie",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "1 pie crust",
           "6 cups thinly sliced apples",
@@ -131,6 +134,7 @@
       {
         "r_id": "CB1",
         "name": "Fried Chicken",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 lbs chicken drumsticks",
           "2 cups buttermilk",
@@ -148,6 +152,7 @@
       {
         "r_id": "CB2",
         "name": "Grilled Shrimp Skewers",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "1 lb large shrimp, peeled and deveined",
           "2 tbsp olive oil",
@@ -164,6 +169,7 @@
       {
         "r_id": "CB3",
         "name": "Beef Stroganoff",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "1 lb beef sirloin, thinly sliced",
           "2 tbsp olive oil",
@@ -195,6 +201,7 @@
       {
         "r_id": "JC1",
         "name": "Beef Bourguignon",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 lbs beef chuck, cut into 2-inch cubes",
           "1/4 cup all-purpose flour",
@@ -221,6 +228,7 @@
       {
         "r_id": "JC2",
         "name": "Boeuf Bourguignon",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 lbs beef chuck, cut into 2-inch cubes",
           "1/4 cup all-purpose flour",
@@ -247,6 +255,7 @@
       {
         "r_id": "JC3",
         "name": "Chicken and Dumplings",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "1 whole chicken (3-4 lbs), cut into pieces",
           "2 tbsp olive oil",
@@ -280,6 +289,7 @@
       {
         "r_id": "EG1",
         "name": "Beef Bourguignon",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 lbs beef chuck, cut into 2-inch cubes",
           "1/4 cup all-purpose flour",
@@ -306,6 +316,7 @@
       {
         "r_id": "EG2",
         "name": "Boeuf Bourguignon",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 lbs beef chuck, cut into 2-inch cubes",
           "1/4 cup all-purpose flour",
@@ -332,6 +343,7 @@
       {
         "r_id": "EG3",
         "name": "Chicken and Dumplings",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "1 whole chicken (3-4 lbs), cut into pieces",
           "2 tbsp olive oil",
@@ -365,6 +377,7 @@
       {
         "r_id": "BM1",
         "name": "Beef Bourguignon",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 lbs beef chuck, cut into 2-inch cubes",
           "1/4 cup all-purpose flour",
@@ -391,6 +404,7 @@
       {
         "r_id": "BM2",
         "name": "Boeuf Bourguignon",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "2 lbs beef chuck, cut into 2-inch cubes",
           "1/4 cup all-purpose flour",
@@ -417,6 +431,7 @@
       {
         "r_id": "BM3",
         "name": "Chicken and Dumplings",
+        "recipe_img": "https://images.pexels.com/photos/6529789/pexels-photo-6529789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "ingredients": [
           "1 whole chicken (3-4 lbs), cut into pieces",
           "2 tbsp olive oil",
